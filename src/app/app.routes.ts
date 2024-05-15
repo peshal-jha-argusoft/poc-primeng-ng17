@@ -23,5 +23,4 @@ export const routes: Routes = [
         path: 'tabs',
         component: TabParentComponent   
     }
-
 ];
